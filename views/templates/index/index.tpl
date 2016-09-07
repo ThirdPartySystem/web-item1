@@ -1,1 +1,2 @@
-<p>Content</p>
+<div id="main_image">
+</div>

@@ -1,5 +1,5 @@
 <?php
-define( 'SITE_NAME' , "WEB-SYSTEM" );
+define( 'SITE_NAME' , "コーポレートサイト" );
 //エラーログの出力先（BTExceptionの例外のログも同一ファイルに入る）
 define( 'ERROR_LOG_FILE' , ROOT_PATH.'/framework_bt/error_log.log');
 
@@ -9,7 +9,7 @@ define( 'HOST' , 'localhost' );
 define( 'DB_NAME' , 'web-system' );
 define( 'DB_USER' , 'blacktinkerbell' );
 define( 'DB_PASS' , 'blacktinkerbell0424' );
-define( 'HOME_URL' , "http://web-system.local" );
+define( 'HOME_URL' , "http://web-item1.local" );
 
 //リモート5.4.45
 //PHPのバージョンは[php5.6.10]
